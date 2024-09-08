@@ -49,6 +49,8 @@ textarea {
   margin-bottom: 1rem;
   padding-left: 1rem;
   font-size: 1rem;
+  border: 2px solid #ccc; /* Light grey border */
+  border-radius: 4px;
 }
 
 textarea {
@@ -97,6 +99,11 @@ button {
 
   textarea {
     height: 80px; /* Adjust height for textareas on smaller screens */
+  }
+
+  h1{
+    font-size:40px;
+    padding-top:2rem;
   }
 }
 
